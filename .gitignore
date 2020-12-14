@@ -1,1 +1,13 @@
+.well-known
+.DS_Store
 .idea
+node_modules
+npm-debug.log
+bower_components
+dist
+.sass-cache
+.awspublish*
+config.json
+nbproject
+*.LCK
+Thumbs.db
