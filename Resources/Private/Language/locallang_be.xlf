@@ -54,6 +54,9 @@
             <trans-unit id="google_reviews_pi1.flexform.showAuthorProfilePhoto">
                 <source>Show author profile photo</source>
             </trans-unit>
+            <trans-unit id="google_reviews_pi1.flexform.templateLayout">
+                <source>Select a special layout for displaying Google Reviews records.</source>
+            </trans-unit>
         </body>
     </file>
 </xliff>
