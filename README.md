@@ -25,3 +25,26 @@ Step 4: Add the "Google Reviews - googlereviews_pi1" Plugin on your target page.
 Step 5: Now you can configure the plugins options with the parameters of that (see options)
 
 Additional: The Google Place ID find here: https://developers.google.com/places/web-service/place-id
+
+# Contact &amp; Communication
+
+## GIT
+
+We are on github:<br />
+https://github.com/ddoronenko/google-reviews/
+
+
+## Development
+
+Dmytro Doronenko<br />
+Software Engineer<br />
+Ukraine<br />
+https://www.linkedin.com/in/dmytro-doronenko/
+
+
+## Helping
+
+INGENIUMDESIGN<br />
+TYPO3 - Internetagentur - Germany<br />
+Sebastian Schmal<br />
+https://www.ingeniumdesign.de/ 
