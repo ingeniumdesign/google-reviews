@@ -17,6 +17,17 @@
                             </config>
                         </TCEforms>
                     </settings.placeId>
+                    <settings.languageCode>
+                        <TCEforms>
+                            <label>LLL:EXT:google_reviews/Resources/Private/Language/locallang_be.xlf:google_reviews_pi1.flexform.languageCode</label>
+                            <description>LLL:EXT:google_reviews/Resources/Private/Language/locallang_be.xlf:google_reviews_pi1.flexform.languageCode.desc</description>
+                            <config>
+                                <type>input</type>
+                                <eval>trim,required</eval>
+                                <default>en</default>
+                            </config>
+                        </TCEforms>
+                    </settings.languageCode>
                     <settings.minStarts>
                         <TCEforms>
                             <label>LLL:EXT:google_reviews/Resources/Private/Language/locallang_be.xlf:google_reviews_pi1.flexform.minStars</label>

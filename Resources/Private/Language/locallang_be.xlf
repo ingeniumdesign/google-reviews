@@ -18,6 +18,12 @@
             <trans-unit id="google_reviews_pi1.flexform.placeId.desc">
                 <source>Put the ID of target place</source>
             </trans-unit>
+            <trans-unit id="google_reviews_pi1.flexform.languageCode">
+                <source>Language Code</source>
+            </trans-unit>
+            <trans-unit id="google_reviews_pi1.flexform.languageCode.desc">
+                <source>Here found all Language Codes https://developers.google.com/maps/faq#languagesupport</source>
+            </trans-unit>
             <trans-unit id="google_reviews_pi1.flexform.minStars">
                 <source>Minimum stars</source>
             </trans-unit>

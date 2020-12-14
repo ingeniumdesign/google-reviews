@@ -61,6 +61,7 @@ class ReviewService implements LoggerAwareInterface
         $queryParams = [
             'key'      => trim((string)$settings['apiKey']),
             'place_id' => (string)$settings['placeId'],
+            'language' => (string)$settings['languageCode'],
         ];
 
         $url      = $settings['apiEndpoint'] . 'json?' . http_build_query($queryParams);
